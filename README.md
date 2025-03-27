@@ -37,9 +37,13 @@ The tutorial explores :
   * **Balancing Complexity:**  Understanding overfitting and underfitting when adjusting depth and width.
 
 
-**License**_
+**License**
+
+
 This project is licensed under the MIT License – you are free to use, modify, and distribute it with proper attribution. See the LICENSE file for details.
 
 **Contribution**
+
+
 Contributions are welcome! Feel free to submit a pull request or open an issue.
  
