@@ -30,7 +30,10 @@ cd Machine_learning_tutorial)
 **Training  Details :**
 The tutorial explores :
                   * **Effect of depth**: How increasing the number of layers impacts model learning.
+
+                  
                   * **Effect of Width:** How changing the number of neurons per layer influences performance.
+                  
                  * **Balancing Complexity:**  Understanding overfitting and underfitting when adjusting depth and width.
 
 
