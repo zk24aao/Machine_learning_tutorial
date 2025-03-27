@@ -4,8 +4,11 @@ OVERVIEW_
 This repository contains in depth tutorial on the impact of depth and width in Multilayer Perceptrons(MLP). The tutorial demonstrates how these choices affect the model performance using MNIST dataset for digit classification.
 
 Repository Contents
+
 1.notebook.ipynb -> Jupyter Notebook implementing MLP's with varying depths and widths
+
 2.Tutorial.pdf -> Tutorial explaining what is MLP and the result of different architectures.
+
 3.README.md -> Documentation and guidelines for using this repository.
 
 **Installation and Setup**
