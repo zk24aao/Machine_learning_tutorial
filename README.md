@@ -32,8 +32,8 @@ The tutorial explores :
 
 
 **License**_
-This project is licensed under the MIT License – you are free to use, modify, and distribute it with proper attribution. See the LICENSE file for details.**
+This project is licensed under the MIT License – you are free to use, modify, and distribute it with proper attribution. See the LICENSE file for details.
 
-Contributions**
+**Contribution**
 Contributions are welcome! Feel free to submit a pull request or open an issue.
  
